@@ -89,6 +89,7 @@
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+* [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -161,6 +162,8 @@
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [编码规范](https://github.com/ecomfe/spec)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 
 ### 设计模式
 
@@ -176,6 +179,7 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.net/)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -258,6 +262,7 @@
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+* [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 
 ### Dart
 
@@ -282,6 +287,10 @@
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
+* [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
+* [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+* [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 
 ### Groovy
 
@@ -389,6 +398,7 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
 
 ### Lua
 
@@ -534,6 +544,7 @@
 * [制造开源软件](http://producingoss.com/zh/)
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+* [AsciiDoc简明指南](https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc)
 * [背包问题九讲](http://love-oriented.com/pack/)
 * [老齐的技术资料](https://github.com/qiwsir/ITArticles)
 * [前端技能汇总](https://github.com/JacksonTian/fks)
