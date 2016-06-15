@@ -53,7 +53,7 @@
   * [C/C++](#cc)
   * [C#](#c)
   * [Clojure](#clojure)
-  * [CSS/HTML](#csshtml)
+  * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Elixir](#elixir)
   * [Erlang](#erlang)
@@ -141,7 +141,6 @@
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [Git权威指南](http://www.worldhello.net/gotgit/)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
@@ -179,7 +178,6 @@
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
-* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
 
 ### MySQL
 
@@ -202,7 +200,7 @@
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
@@ -215,8 +213,6 @@
 
 * [图说设计模式](https://github.com/me115/design_patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
-* [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
-* [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
 
 ### Web
 
@@ -268,7 +264,6 @@
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
-* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
 ## 语言相关类
 
@@ -331,7 +326,7 @@
 
 * [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
-<h3 id="csshtml">CSS/HTML</h3>
+### CSS
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
@@ -481,7 +476,6 @@
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
-    * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
